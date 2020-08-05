@@ -1,0 +1,13 @@
+name: HuntingGrounds
+author: Stellrow
+version: 1.0
+api-version: 1.13
+main: me.Stellrow.HuntingGrounds.HuntingGrounds
+
+commands:
+  huntinggrounds:
+    usage: /huntinggrounds
+    description: Main huntinggrounds command
+  hg:
+    usage: /hg
+    description: Short version of main command
